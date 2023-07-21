@@ -9,4 +9,4 @@ After Poppler and Pytesseract Installation save the path of both in the .env fil
 
 pip install -r requirements.txt
 
-streamlit run streamlit_file.py
+streamlit run stream_lit.py
